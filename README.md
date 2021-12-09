@@ -1,4 +1,4 @@
-# Tableau-Challenge
+# CitiBike-Analysis: https://public.tableau.com/app/profile/kyle.carlson/viz/TableauChallenge_16358842449910/Novemberstory
 
 Some conclusions that I can make about this data set from Citibike from New York City, New York in November of 2020. 
 The first question was more about demographics and focused on breaking the data down to show the gender, age and status of the riders using this service. Regarding gender of riders, I found that 67% were males and 33% were females and that most users were subscribed to the service. Nothing too shocking from these discovers as men typically are more inclined to go out on a bike as they may feel safer doing so in New York. This is seen even more following my second question.
